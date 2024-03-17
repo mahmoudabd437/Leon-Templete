@@ -163,12 +163,14 @@ body {
 }
 
 .landing {
-    background-image: url(/images/R.jpeg);
+    background-image: url(/images/landing2.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+    background-color: var(--secoundry-color);
 }
 
 .landing h1 {
